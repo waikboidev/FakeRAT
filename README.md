@@ -8,3 +8,4 @@ You are allowed to deobfuscate it and edit it but please don't redistribute it.
 `pip install rich`
 `pip install pyfiglet`
 `pip install asyncio`
+`pip install pycryptodome`
